@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  three: ^0.142.0
+
+devDependencies:
+  three: registry.npmjs.org/three/0.142.0
+
+packages:
+
+  registry.npmjs.org/three/0.142.0:
+    resolution: {integrity: sha512-ESjPO+3geFr+ZUfVMpMnF/eVU2uJPOh0e2ZpMFqjNca1wApS9lJb7E4MjwGIczgt9iuKd8PEm6Pfgp2bJ92Xtg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/three/-/three-0.142.0.tgz}
+    name: three
+    version: 0.142.0
+    dev: true
